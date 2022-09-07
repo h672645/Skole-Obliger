@@ -2,7 +2,7 @@ package no.hvl.dat100;
 import static javax.swing.JOptionPane.*;
 import static java.lang.Double.*;
 
-public class LABB4 {
+public class O1 {
 	public static void main(String[] args) {
 		String inntektTxt = showInputDialog("Skriv inn din årslønn: ");
 		double inntekt = parseDouble(inntektTxt);
