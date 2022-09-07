@@ -2,7 +2,7 @@ package no.hvl.dat100;
 import static javax.swing.JOptionPane.*;
 
 
-public class B5 {
+public class O2 {
 	public static void main (String[] args) {
 	
 		int elever = 1;
